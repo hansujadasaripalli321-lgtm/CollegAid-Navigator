@@ -1,0 +1,10 @@
+.banner-container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.banner-container img {
+  width: 100%;   /* stretches across the page */
+  height: auto;  /* keeps proportions correct */
+  display: block;
+}
