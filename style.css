@@ -8,3 +8,14 @@
   height: auto;  /* keeps proportions correct */
   display: block;
 }
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.banner-container img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
