@@ -1,4 +1,4 @@
-# CollegAid-Navigator
+# Colleg-Aid Navigator
 
 ## Overview
 CollegeAid Navigator is a student-built website designed to help families understand financial aid, FAFSA, and scholarships with clarity and confidence.
