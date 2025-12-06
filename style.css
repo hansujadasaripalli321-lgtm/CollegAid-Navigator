@@ -3,11 +3,6 @@
   margin: 0 auto;
 }
 
-.banner-container img {
-  width: 100%;   /* stretches across the page */
-  height: auto;  /* keeps proportions correct */
-  display: block;
-}
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -19,3 +14,11 @@ body {
   height: auto;
   display: block;
 }
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
